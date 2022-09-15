@@ -8,6 +8,9 @@ curl https://raw.githubusercontent.com/dohai2105/container_alias/main/.container
 
 # Add following line to your ~/.zshrc or ~/.bashrc
 [ -f ~/.container_alias ] && source ~/.container_alias
+
+# Reload ~/.zshrc or ~/.bashrc
+source ~/.zshrc
 ```
 
 
