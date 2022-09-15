@@ -1,4 +1,4 @@
-# Alias collection
+# Shortcut collection for kubectl and docker
 
 ## How to install
 
