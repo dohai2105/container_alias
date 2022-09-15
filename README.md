@@ -4,7 +4,6 @@
 
 ```
 # Dowload to local
-
 curl https://raw.githubusercontent.com/dohai2105/container_alias/main/.container_alias -o ~/.container_alias
 
 # Add following line to your ~/.zshrc or ~/.bashrc
