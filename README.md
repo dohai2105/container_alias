@@ -14,7 +14,3 @@ source ~/.zshrc
 ```
 
 
-## Refer
-[Docker alias](https://github.com/akarzim/zsh-docker-aliases)
-
-[Kubectl alias](https://github.com/ahmetb/kubectl-aliases)
